@@ -9,9 +9,6 @@ The platform introduces value-added services such as a micro-frontend based self
 
 Ceph is being used as a vendor-neutral storage backend for block, shared, and object storage. The software lifecycle of the stack utilizes OCM and cloud-native lifecycle deployment methodologies. The lifecycle for compute, AI, storage, and network hardware is fully automated using the IronCore Metal API and Kubernetes-based operators. Gardener and GardenLinux extensions provides coordinated control-plane maintenance for reliable updates of the hypervisor and storage fleet. Operational concerns are seamlessly integrated with the Greenhouse Operations Platform and Heureka Security Posture Management.
 
-![image](https://github.com/user-attachments/assets/6302a107-db7e-4957-a012-011e73bc91c3)
-
-
 # Roadmap
 
 ### 🐧 KVM
