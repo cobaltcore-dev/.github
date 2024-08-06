@@ -7,7 +7,9 @@ CobaltCore is a reimagined and opinionated OpenStack distribution fully utilizin
 
 The platform introduces value-added services such as a micro-frontend based self-service portal, advanced scheduling and rebalancing, container registry as a service, and integration with Gardener as managed Kubernetes runtime. It also offers extended audit capabilities and customer telemetry services.  
 
-Ceph is being used as a vendor-neutral storage backend for block, shared, and object storage. The software lifecycle of the stack utilizes OCM and cloud-native lifecycle deployment methodologies. The lifecycle for compute, AI, storage, and network hardware is fully automated using the IronCore Metal API and Kubernetes-based operators. Gardener and GardenLinux extensions provides coordinated control-plane maintenance for reliable updates of the hypervisor and storage fleet. Operational concerns are seamlessly integrated with the Greenhouse Operations Platform and Heureka Security Posture Management.
+Ceph is being used as a vendor-neutral storage backend for block, shared, and object storage. The software lifecycle of the stack utilizes OCM and cloud-native lifecycle deployment methodologies. 
+
+The lifecycle for compute, AI, storage, and network hardware is fully automated using the IronCore Metal API and Kubernetes-based operators. Gardener and GardenLinux extensions provides coordinated control-plane maintenance for reliable updates of the hypervisor and storage fleet. Operational concerns are seamlessly integrated with the Greenhouse Operations Platform and Heureka Security Posture Management.
 
 # Roadmap
 
