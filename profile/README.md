@@ -1,6 +1,6 @@
 # Welcome to the CobaltCore Project on GitHub
 
-<a href="https://github.com/cobaltcore-dev"><img align="left" width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
+<a href="https://github.com/cobaltcore-dev"><img width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
 
 :wave: Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS). CobaltCore is a reimagined and opinionated OpenStack distribution fully utilizing ApeiroRA.
 
