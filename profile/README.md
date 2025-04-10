@@ -38,4 +38,4 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 
 ## :books: Learn More
 
-To learn more about IronCore, check out the official documentation which is added soon!
+To learn more about CobaltCore, check out the official documentation which will be added soon!
