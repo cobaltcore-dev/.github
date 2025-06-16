@@ -12,9 +12,7 @@ Learn more about ApeiroRA by checking out the official website at [https://apeir
 
 ## :handshake: CobaltCore
 
-CobaltCore complements [IronCore](https://github.com/ironcore-dev) as an alternative for traditional workloads and ensures backward compatibility. 
-
-CobaltCore is an opinionated OpenStack distribution that builds upon IronCore's foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
+CobaltCore complements [IronCore](https://github.com/ironcore-dev) as an alternative for traditional workloads and ensures backward compatibility. CobaltCore is an opinionated OpenStack distribution that builds upon IronCore's foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
 
 ## :pushpin: CobaltCore and NeoNephos
 
