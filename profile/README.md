@@ -2,7 +2,7 @@
 
 <a href="https://github.com/cobaltcore-dev"><img width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
 
-:wave: Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS). CobaltCore is a reimagined and opinionated OpenStack distribution fully utilizing ApeiroRA.
+:wave: Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS). CobaltCore is an opinionated OpenStack distribution that builds upon IronCore’s foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
 
 ## :globe_with_meridians: ApeiroRA?
 
@@ -14,8 +14,11 @@ Learn more about ApeiroRA by checking out the official website at [https://apeir
 
 CobaltCore complements [IronCore](https://github.com/ironcore-dev) as an alternative for traditional workloads and ensures backward compatibility. 
 
-The platform introduces value-added services such as a micro-frontend based self-service portal, advanced scheduling and rebalancing, container registry as a service, and integration with Gardener as managed Kubernetes runtime. It also offers extended audit capabilities and customer telemetry services.  
-Ceph is being used as a vendor-neutral storage backend for block, shared, and object storage. The software lifecycle of the stack utilizes OCM and cloud-native lifecycle deployment methodologies. 
+CobaltCore is an opinionated OpenStack distribution that builds upon IronCore's foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
+
+## :pushpin: CobaltCore and NeoNephos
+
+CobaltCore has been donated to the NeoNephos Foundation, a Linux Foundation initiative dedicated to advancing open-source projects that align with the strategic objectives of IPCEI-CIS under neutral governance. Learn more about NeoNephos and our role within it [here](https://neonephos.org).
 
 ## :penguin: Roadmap
 The [roadmap Kanban board](https://github.com/orgs/cobaltcore-dev/projects/1/views/1) provides an overview of ongoing and planned efforts on a high level.    
