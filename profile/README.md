@@ -39,4 +39,8 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 
 ## :books: Learn More
 
-To learn more about CobaltCore, check out the official documentation which will be added soon!
+To learn more about CobaltCore, please refer to the official documentation, which will be added soon.
+
+<p align="center">
+  <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
+</p>
