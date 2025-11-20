@@ -1,0 +1,7 @@
+services:
+  vitepress:
+    build: .
+    ports:
+      - "5173:5173" # Map container port 5173 to host port 5173
+    volumes:
+      - ./docs:/app/docs # Mount your local project directory into the container
