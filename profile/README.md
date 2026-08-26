@@ -2,44 +2,34 @@
 
 <a href="https://github.com/cobaltcore-dev"><img width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
 
-Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services ([IPCEI-CIS](https://www.8ra.com/ipcei-cis/)). CobaltCore is an opinionated OpenStack distribution that builds upon IronCore’s foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
+Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services ([IPCEI-CIS](https://www.8ra.com/ipcei-cis/)). CobaltCore is a cloud-native IaaS platform combining Kubernetes-native orchestration with OpenStack-influenced services to deliver a modern cloud distribution for cloud-native and traditional workloads alike.
 
-## ApeiroRA?
+## What is CobaltCore?
 
-ApeiroRA is a reference blueprint for an open, flexible, secure, and compliant next-generation cloud-edge continuum and therefore a key contribution to IPCEI-CIS. At a high level, the projects of ApeiroRA allow users to provider-agnostically fetch, request and consume services, and for service providers to describe, offer and provision their services.
+CobaltCore is a cloud-native IaaS platform combining Kubernetes-native orchestration with OpenStack-influenced services to deliver a modern cloud distribution for cloud-native and traditional workloads alike. It ensures backward compatibility for stateful VMs and traditional network configurations. Compute, storage, and networking lifecycles are fully managed through Kubernetes APIs and wired together by feature-rich services covering every operational concern of a modern data center, enabling production-grade deployments at any scale within weeks, from bare metal up.
 
-Learn more about ApeiroRA by checking out the official website at [https://apeirora.eu/](https://apeirora.eu/).
+### Features
 
-## CobaltCore
-
-CobaltCore complements [IronCore](https://github.com/ironcore-dev) as an alternative for traditional workloads and ensures backward compatibility. CobaltCore is an opinionated OpenStack distribution that builds upon IronCore's foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
+- **Automated Lifecycle:** Compute, storage, networking, and AI hardware lifecycles are fully automated through IronCore Bare Metal Management and Kubernetes-native operators - from bare metal provisioning to day-2 operations.
+- **Gardener Extensions:** Gardener and GardenLinux extensions provide coordinated control-plane maintenance for the KVM hypervisor and storage fleet, ensuring reliable and non-disruptive updates at any scale.
+- **Greenhouse Integration:** Operational concerns are seamlessly integrated with the [Greenhouse Operations Platform](https://cloudoperators.github.io/greenhouse) and Heureka Security Posture Management, giving operators a unified view across the entire data center.
 
 ## CobaltCore and NeoNephos
 
 CobaltCore has been donated to the NeoNephos Foundation, a Linux Foundation initiative dedicated to advancing open-source projects that align with the strategic objectives of IPCEI-CIS under neutral governance. Learn more about NeoNephos and our role within it [here](https://neonephos.org).
 
-## Roadmap
-The [roadmap Kanban board](https://github.com/orgs/cobaltcore-dev/projects/1/views/1) provides an overview of ongoing and planned efforts on a high level.    
-Please see the linked issues for more details.
-
-## Features
-
-- **Automated Lifecycle:** The lifecycle for compute, AI, storage, and network hardware is fully automated using the IronCore Metal API and Kubernetes-based operators. 
-- **Gardener extensions:** Gardener and GardenLinux extensions provide coordinated control-plane maintenance for reliable updates of the hypervisor and storage fleet. 
-- **Greenhouse Integration:** Operational concerns are seamlessly integrated with the [Greenhouse Operations Platform](https://cloudoperators.github.io/greenhouse) and Heureka Security Posture Management.
-
 ## Get Involved
 
-Thank you for considering to contribute to our project.
-To become an excellent contributor, check out our [contribution guidelines](https://github.com/cobaltcore-dev/rook/blob/master/CONTRIBUTING.md) and our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Acobaltcore-dev+archived%3Afalse+).
+Contributions are welcome. Check out our [contribution guidelines](https://github.com/cobaltcore-dev/rook/blob/master/CONTRIBUTING.md) and [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Acobaltcore-dev+archived%3Afalse+) to get started.
 
 ## Code of Conduct
 
-To facilitate a nice environment for all, check out [our Code of Conduct](https://github.com/cobaltcore-dev/.github/blob/main/CODE_OF_CONDUCT.md).
+This project follows our [Code of Conduct](https://github.com/cobaltcore-dev/.github/blob/main/CODE_OF_CONDUCT.md).
 
-## Learn More
+## [What is ApeiroRA?](https://apeirora.eu/)
 
-To learn more about CobaltCore, please refer to the official documentation, which will be added soon.
+ApeiroRA is a reference blueprint for an open, flexible, secure, and compliant next-generation cloud-edge continuum and therefore a key contribution to IPCEI-CIS. At a high level, the projects of ApeiroRA allow users to provider-agnostically fetch, request and consume services, and for service providers to describe, offer and provision their services.
+
 
 <p align="center">
   <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
