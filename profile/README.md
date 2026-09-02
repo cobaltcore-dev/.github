@@ -1,8 +1,8 @@
-# Welcome to the CobaltCore Project on GitHub
+# [Welcome to the CobaltCore Project on GitHub](https://cobaltcore.dev)
 
 <a href="https://github.com/cobaltcore-dev"><img width="150" height="170" src="https://raw.githubusercontent.com/cobaltcore-dev/.github/main/assets/Logo_Cobalt_Core_Typo_white_background.svg"></a>
 
-Welcome to the official GitHub presence of CobaltCore. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services ([IPCEI-CIS](https://www.8ra.com/ipcei-cis/)). CobaltCore is a cloud-native IaaS platform combining Kubernetes-native orchestration with OpenStack-influenced services to deliver a modern cloud distribution for cloud-native and traditional workloads alike.
+We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services ([IPCEI-CIS](https://www.8ra.com/ipcei-cis/)). CobaltCore is a cloud-native IaaS platform combining Kubernetes-native orchestration with OpenStack-influenced services to deliver a modern cloud distribution for cloud-native and traditional workloads alike.
 
 ## What is CobaltCore?
 
